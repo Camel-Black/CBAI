@@ -1,2 +1,2 @@
 # CBAI
-An Ai to feel a pictur
+An Ai Which feels a picture
